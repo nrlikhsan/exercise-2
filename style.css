@@ -1,0 +1,11 @@
+input{
+    display: block;
+}
+
+body{
+    padding: 5%;
+    margin: 5%;
+    border-style: double;
+    background-color: brown;
+}
+
